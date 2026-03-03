@@ -10,7 +10,7 @@ Born2beRoot is a system administration project focused on installing and configu
 
 The goal of this activity is to understand the fundamentals of Linux system administration, server hardening, user management, and basic security practices. The entire setup is performed without a graphical interface, reinforcing command-line proficiency and system-level understanding.
 
-By the end of the project, the system must be properly secured, configured according to strict rules, and monitored using a custom Bash script.
+By the end of the project, the system must be properly secured, configured according to strict rules, and monitored using a custom Bash script that displays some information to users every 10 mins.
 
 ---
 
