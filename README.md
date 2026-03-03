@@ -1,6 +1,7 @@
 *This activity has been created as part of the 42 curriculum by mjabarin.*
 
 # 🐧 Born2beRoot
+> Because being a user is overrated. It’s time to become **root**.
 
 ---
 
