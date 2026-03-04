@@ -120,3 +120,16 @@ To run the monitoring script manually:
 
 ```bash
 bash monitoring.sh
+```
+## Resources
+
+* Debian Documentation: https://www.debian.org/doc/
+* UFW Documentation: https://help.ubuntu.com/community/UFW
+* https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+* https://www.tecmint.com/sudoers-configurations-for-setting-sudo-in-linux/
+* https://www.server-world.info/en/note?os=Debian_10&p=password
+https://manpages.debian.org/testing/libpam-pwquality/pam_pwquality.8.en.html#enforce_for_root
+www.geeksforgeeks.org/blogs/introduction-to-scripting-languages/
+https://www.geeksforgeeks.org/linux-unix/ss-command-in-linux/
+https://www.geeksforgeeks.org/linux-unix/vmstat-command-in-linux-with-examples/
+https://www.geeksforgeeks.org/linux-unix/awk-command-unixlinux-examples/
